@@ -217,7 +217,7 @@
   }
   ```
 
-## 9. 格式转换
+## 9. 格式转换（包含jpg、webp、svg、tiff、gif、bmp转为png格式）
 - **接口地址**：`/utils/convert_to_png`
 - **功能**：将上传的图片转换为 PNG 格式
 - **请求参数**：
